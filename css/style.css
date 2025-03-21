@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700;800&display=swap');
+/*
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+.img-mapa {
+    margin: auto;
+    width: 1200px;
+}
+
+body {
+    background-color: rgb(200, 231, 231);
+}
+
+.img-mapa-dep img {
+    margin:auto;
+    width: 350px;
+    border-radius: 15px;
+    border: 10px solid #49BADA;
+}
+
+.img-mapa-dep {
+    text-align: center;
+}
+
+.titulo-dep {
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #000000;
+    font-size: 25px;
+}
+
+.title-turismo {
+    color: #000000;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+
+.turismo-txt {
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.turismo-txt img {
+    margin:auto;
+    width: 350px;
+    border-radius: 15px;
+    border: 10px solid #49BADA;
+    display: grid;
+}
+
+.title-comida {
+    color: #000000;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+}
+
+.comida-txt {
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.comida-txt img {
+    margin:auto;
+    width: 350px;
+    border-radius: 15px;
+    border: 10px solid #49BADA;
+    display: grid;
+}
+
+.img-mapa-ant {
+    margin:auto;
+    width: 350px;
+    border-radius: 15px;
+    border: 10px solid #49BADA;
+}
+
+.title-sector-economico {
+    color: #000000;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 25px;
+}
+
+.sector-economico-txt {
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.sector-economico-txt img {
+    margin:auto;
+    width: 350px;
+    border-radius: 15px;
+    border: 10px solid #49BADA;
+    display: grid;
+}

@@ -26,20 +26,20 @@ body {
 
 .titulo-dep {
     text-align: center;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #000000;
     font-size: 25px;
 }
 
 .title-turismo {
     color: #000000;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 30px;
 }
 
 .turismo-txt {
     color: rgb(0, 0, 0);
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
 
@@ -53,13 +53,13 @@ body {
 
 .title-comida {
     color: #000000;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 25px;
 }
 
 .comida-txt {
     color: rgb(0, 0, 0);
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
 
@@ -80,13 +80,13 @@ body {
 
 .title-sector-economico {
     color: #000000;
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 25px;
 }
 
 .sector-economico-txt {
     color: rgb(0, 0, 0);
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
 
